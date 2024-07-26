@@ -19,3 +19,4 @@ function checkout() {
     alert('Redirecting to payment page...');
     window.location.href = 'https://www.google.com';
 }
+
